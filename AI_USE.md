@@ -1,4 +1,4 @@
-# AI Use Declaration — Register No: 2548419
+# AI Use Declaration - Register No: 2548419
 
 | Date | Tool Used | Task / Prompt Summary | What I Kept | Correction I Made |
 | :--- | :--- | :--- | :--- | :--- |
